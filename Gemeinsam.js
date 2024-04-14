@@ -1,7 +1,7 @@
 import  {Kafka}  from 'kafkajs';
 
 const kafka = new Kafka({
-  clientId: 'my-app',
+  clientId: '123456',
   brokers: ['zimolong.eu:9092']
 });
 
